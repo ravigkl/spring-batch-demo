@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+#maven project target
+target
+
 # Folder config file
 Desktop.ini
 
